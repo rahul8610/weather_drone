@@ -1,0 +1,2 @@
+predicted_precipitation_probability (%),predicted_temp_max (°C),predicted_temp_min (°C),predicted_sunrise (unix),predicted_sunset (unix),predicted_sunrise (time),predicted_sunset (time)
+-0.00058868126,30.19604,21.181984,1698895400.0,1695879700.0,2025-06-20 02:42:06.098174+05:30,2025-06-20 12:27:42.025844+05:30
