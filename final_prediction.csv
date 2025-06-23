@@ -1,0 +1,2 @@
+predicted_rain_sum (mm),predicted_temp_max (°C),predicted_temp_min (°C),predicted_sunrise_hour,predicted_sunset_hour,predicted_sunrise (time),predicted_sunset (time)
+-0.08494433,36.629368,23.907139,0.65980184,13.115966,2025-06-20 07:12:06.098174+10:00,2025-06-20 16:57:42.025844+10:00
